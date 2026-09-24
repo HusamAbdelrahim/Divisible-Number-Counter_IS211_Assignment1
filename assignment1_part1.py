@@ -1,4 +1,4 @@
-#assignment1_part1
+# divisible-number-counter - Assignment1_Part1
 
 def list_divide(numbers, divide=2): #we created a function called list_divide and then what we did was take two parameters which is numbers, and divide with a value of 2
     count = 0
